@@ -1,3 +1,4 @@
 # html
 HTML portfolio: a template for a website blog
-Go to https://sirigjersoe.github.io/ to see it
+**Live site:** [https://sirigjersoe.github.io](https://sirigjersoe.github.io)
+
